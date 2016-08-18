@@ -1,0 +1,17 @@
+{
+    "name": "overlock-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Dario Manuel Muhafara"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/overlock-bower.git"
+    },
+    "description": "Overlock font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
